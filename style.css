@@ -257,7 +257,7 @@ body {
 
 .product-card img {
     width: 100%;
-    height: 300px;
+    height: 359px;
     object-fit: cover;
 }
 
@@ -1647,7 +1647,7 @@ body {
     }
 
     .product-card img {
-        height: 220px;
+        height: 269px;
     }
 
     .product-badge {
@@ -1908,4 +1908,5 @@ body {
     .price {
         font-size: 1.2rem;
     }
+
 }
