@@ -1594,7 +1594,7 @@ body {
 @media (max-width: 480px) {
     /* Extra Small Mobile Adjustments */
     .container {
-        padding: 0 15px;
+        padding: 0 17px;
     }
 
     .logo a {
@@ -1910,5 +1910,6 @@ body {
     }
 
 }
+
 
 
